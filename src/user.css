@@ -1,0 +1,45 @@
+.userCard{
+    background:transparent;
+    transition: 0.3s;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,1);
+    border-radius: 15px;
+    border: rgb(212, 171, 171);
+}
+.userCard:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1.2);
+}
+img{
+    border-radius:40px;
+    height: 200px;
+    float: left;
+}
+.left{
+    float: left;
+}
+.right{
+    float:left;
+}
+.compare-form{
+    display: inline;
+    padding: 200px;
+}
+.Repo-form{
+    display: inline;
+    
+}
+.name{
+    opacity: 20px;
+    color: thistle;
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+h2{
+    font-size: 30px;
+}
+.smallit{
+    font-size:20px;
+
+}
